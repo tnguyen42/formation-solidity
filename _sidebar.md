@@ -1,6 +1,6 @@
 * Introduction
-  * [Présentation](readme.md#formation-solidity)
-  * [Environnement](readme.md#mettre-en-place-lenvironnement)
+  * [Présentation](#formation-solidity)
+  * [Environnement](#mettre-en-place-lenvironnement)
 
 * Formation
   * [Consigne](consigne.md#)

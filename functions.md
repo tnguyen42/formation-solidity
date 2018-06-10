@@ -73,5 +73,6 @@ constructor(string _age) public {
 > À noter : un constructeur peut recevoir des arguments mais ne peut pas retourner de valeurs.
 
 # A vous de jouer :
-  * Créer une fonction permettant d'initialiser votre message
-  * Créer une fonction permettant de récupérer votre message, sans restriction pour l'instant
+
+> * Au moment de déployer votre contrat vous devez initialiser votre message
+> * Créer une fonction permettant de retourner votre message (sans restriction pour l'instant)

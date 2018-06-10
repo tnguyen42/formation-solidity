@@ -1,6 +1,6 @@
 # Variables
 
-Maintenant que nous avons une structure pour notre contrat, nous devons enregistrer notre message.
+Maintenant que nous avons une structure pour notre contrat, pour que notre contrat fonctionne nous allons avoir besoin de sauvegarder le message, la date de création du contrat, ainsi que le propriétaire
 
 Voyons voir comment Solidity gère les variables.
 
@@ -17,4 +17,7 @@ Dans cet exemple de contrat, nous avons créé un uint appelé myAge qui a pour 
 Vous pouvez trouver tout les types disponible [ici](http://solidity.readthedocs.io/en/v0.4.24/types.html)
 
 # A vous de jouer :
-> Créer la variable message de type 'string' dans votre contrat
+> Créer dans votre contrat les variables:
+  * 'message' de type 'string'
+  * 'owner' de type 'address'
+  * 'createdTime' de type 'uint'

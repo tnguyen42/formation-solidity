@@ -11,7 +11,10 @@
     * [Valeurs retournées](functions.md#valeurs-retournées)
     * [Modificateurs de fonction](functions.md#modificateurs-de-fonction)
     * [Constructeur](functions.md#Constructeur)
-  * [4 - Propriétaire](owner.md)
+  * [4 - Dates](date.md)
+  * [5 - Propriétaire](owner.md)
+  * [6 - Require](require.md)
+  * [7 - Déploiement](deployment.md)
 
 * [Solution](solution.md)
 
